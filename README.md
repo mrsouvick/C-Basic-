@@ -52,6 +52,7 @@ Here are some of the practice problems included in this repository:
 3. **Maximum of Three Numbers:** Find the largest of three numbers.
 4. **Leap Year Checker:** Determine if a given year is a leap year.
 5. **Simple Calculator:** Create a basic calculator using if-else.
+6. **Vote:** to verify voting eligibility
 
 Each problem comes with a sample solution and can be found in its respective `.cpp` file.
 
